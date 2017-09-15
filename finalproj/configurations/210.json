@@ -1,0 +1,24 @@
+{
+	"VANILA":false,
+	"VANILA_ATTENTION":false,
+	"TURN_ATTENTION":true,
+	"PROPS":true,
+	"PARTIAL":true,
+	"SEMANTIC":true,
+	"LENGTH":8,
+	"EPOCHS":3,
+	"BATCH_SIZE":20,
+	"MAX_SENT_LENGTH": 40,
+	"MAX_SENTS" : 20,
+	"MAX_NB_WORDS" : 20000,
+	"MAX_TURNS" : 60,
+	"EMBEDDING_DIM" : 100,
+	"VALIDATION_SPLIT" : 0.1,
+	"TEST_SPLIT" :0.2,
+	"RNN_DIM" :50,
+	"VEC_SIZE":5
+
+
+
+
+}
