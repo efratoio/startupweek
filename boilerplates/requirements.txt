@@ -6,7 +6,7 @@ Flask-Cors==3.0.2
 Flask-Script==2.0.5
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 jsonify==0.5
 MarkupSafe==1.0
 requests==2.18.4
